@@ -1,0 +1,13 @@
+Grep -c counts the lines and doesnt print them
+  its useful by getting the amount of lines present.
+
+Grep -h doesnt print the filenames 
+useful for making the output cleaner or for removing unwanted clutter
+
+Grep -n prints the lines matching with the line number
+  good for printing lines one to one which I assume to be neat or find errors.
+
+Grep --null Prints a zero bit after file name
+not sure what this is used for but I assume theres some use for it.
+
+I found these inputs by using the command man grep within my terminal.
